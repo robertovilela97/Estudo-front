@@ -16,6 +16,7 @@ const CartCount = styled.span`
 `
 
 const Container = styled.div`
+    top: 10px;
     position: relative;
 `
 

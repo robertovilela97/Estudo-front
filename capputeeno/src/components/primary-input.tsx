@@ -13,7 +13,7 @@ export const PrimaryInput = styled.input`
     font-family: inherit;
     font-size: 14px;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 42px;
     color: var(--text-dark);
 `
 const InputContainer = styled.div`
